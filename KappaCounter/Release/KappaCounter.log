@@ -1,0 +1,7 @@
+﻿  KappaCounter.cpp
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(328,27): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 471 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  KappaCounter.vcxproj -> C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\Release\KappaCounter.exe

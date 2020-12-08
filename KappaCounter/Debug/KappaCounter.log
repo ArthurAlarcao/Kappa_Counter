@@ -1,0 +1,50 @@
+﻿  KappaCounter.cpp
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(441,29): warning C4244: '=': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=const float
+          ]
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(442,42): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(442,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(443,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(443,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(444,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(444,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(445,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(445,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(446,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(446,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(447,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(447,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(448,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(448,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(561,82): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(585,29): warning C4244: '=': conversion from '_Ty1' to 'int', possible loss of data
+          with
+          [
+              _Ty1=const float
+          ]
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(586,42): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(586,64): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(587,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(587,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(588,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(588,70): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(589,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(589,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(590,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(590,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(591,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(591,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(592,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(592,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\KappaCounter\KappaCounter.cpp(694,83): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  KappaCounter.vcxproj -> C:\Users\tutug\Desktop\cop\kappaProject\KappaCounter\Debug\KappaCounter.exe
